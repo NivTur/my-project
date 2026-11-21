@@ -1,5 +1,7 @@
 # Project proposal
 
+Degree level: Master’s
+
 ## 1. The problem and goal
 
 **The problem and goal in my project:**
